@@ -7,3 +7,5 @@ and the length of snake as well .We need to protect our snake from hitting the b
 well.
 Like this scores are calculated .
 Try it yourself and relive oe of the best childhood memory.
+
+![Screenshot (1177)](https://user-images.githubusercontent.com/59765165/127623910-d7d3811e-9c33-4093-b13e-1029931c8286.png)
